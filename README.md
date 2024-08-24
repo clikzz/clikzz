@@ -1,5 +1,3 @@
-# 🥺 hoda tú
-
 <!--
 **clikzz/clikzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,5 @@ Here are some ideas to get you started:
 
 
 # **Álvaro Loyola Mendoza - Ingeniero Civil en Informática (not yet)**
+
+🌱 Cooking a FullStack Developer or a Data Engineer (hnstly idk)
