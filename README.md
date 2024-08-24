@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# **Álvaro Loyola Mendoza - Ingeniero Civil en Informática (not yet)**
