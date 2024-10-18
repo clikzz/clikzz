@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clikzz" alt="clikzz" /></a> </p>
 
-- 🔭 I’m currently working on [Mis Notas](https://mn.alvaroloyola.works)
-
 - 🌱 I’m currently learning **TypeScript, React, Tailwind CSS & Next.js**
 
 - 👨‍💻 All of my projects are available at [HERE!](https://www.alvaroloyola.works)
