@@ -35,13 +35,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    Frontend
+    <h4 align="center">Frontend</h2>
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,mui" />
-    Backend
+    <h4 align="center">Backend</h2>
     <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-    Databases
+    <h4 align="center">Databases</h2>
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-    Tools
+   <h4 align="center">Tools</h2>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
 </div>
 
