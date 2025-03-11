@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **Factoring Security**
+ 🔭 I'm currently working on **meloeché and my own portfolio**
  
  🌱 I’m currently learning about **TypeScript and Next.js**
 
